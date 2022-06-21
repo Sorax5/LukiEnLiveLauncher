@@ -1,6 +1,6 @@
 {
   "name": "lukienlivelauncher",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "productName": "LukiEnLive Launcher",
   "description": "Launcher du serveur Moddé du Streameur LukiEnLive",
   "author": "Daniel Scalzi (https://github.com/dscalzi/) SoraxDubbing / Luki",
@@ -26,7 +26,7 @@
     "@electron/remote": "^2.0.4",
     "adm-zip": "^0.5.9",
     "async": "^3.2.3",
-    "discord-rpc": "^4.0.1",
+    "discord-rpc-patch": "^4.0.1",
     "ejs": "^3.1.6",
     "ejs-electron": "^2.1.1",
     "electron-updater": "^4.6.5",
