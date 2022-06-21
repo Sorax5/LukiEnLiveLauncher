@@ -23,6 +23,3 @@ Si vous téléchargez à partir du [Releases](https://github.com/luki-39/LukiEnL
 | Platforme | Fichier |
 | -------- | ---- |
 | Windows x64 | `LukiEnLive-Launcher-setup-VERSION.exe` |
-| macOS x64 | `LukiEnLive-Launcher-setup-VERSION-x64.dmg` |
-| macOS arm64 | `LukiEnLive-Launcher-setup-VERSION-arm64.dmg` |
-| Linux x64 | `LukiEnLive-Launcher-setup-VERSION.AppImage` |
